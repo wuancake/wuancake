@@ -6,12 +6,12 @@
 
 由于煎饼计划的代码均需上传至github，我就以Windows平台下的TortoiseGit为例将下git的几个基本命令，当然学会了TortoiseGit，再学TortoiseSVN也很容易。
 ###二、注册GitHub账号
-1.注册
-在使用Git前，首先你要有个Git服务器，目前用的最多的免费git仓库是GitHub，注册地址是：https://github.com/join
-2.权限的开通
-光有账号是不行的，你还需要相应的读写权限，想开通煎饼计划的git，请联系陶陶为你开通权限
-3.接受邀请
-陶陶邀请你后，你会收到一封邮件，点击同意即可开通
+
+1.在使用Git前，首先你要有个Git服务器，目前用的最多的免费git仓库是GitHub，注册地址是：https://github.com/join
+
+2.光有账号是不行的，你还需要相应的读写权限，想开通煎饼计划的git，请联系陶陶为你开通权限
+
+3.陶陶邀请你后，你会收到一封邮件，点击同意即可开通
 没收到邮件的，访问下https://github.com/wuanlife，页面顶上会有相关的通知
 ###三、TortoiseGit的基本操作
 ####1.安装
