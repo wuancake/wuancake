@@ -1,4 +1,4 @@
-###午安煎饼计划PHP组学习内容v1.1
+#午安煎饼计划PHP组学习内容v1.2
 
 ###一、准备工作
 
@@ -13,8 +13,8 @@ eclipse需依赖JRE环境，下载地址：
 http://download-cf.jetbrains.com/webide/PhpStorm-9.0.2.exe
 
 
-2.本地WAMP环境——phpStudy Lite：
-http://pan.baidu.com/s/1o63qHeE
+2.本地WAMP环境——phpStudy：
+http://www.phpstudy.net/phpstudy/phpStudy.zip
 
 
 
@@ -22,21 +22,21 @@ http://pan.baidu.com/s/1o63qHeE
 
 以下内容并不需要全部学完，大家根据自己的需要自行选择。
 
-1.PHP教程：
+1.PHP: 入门指引：
+http://php.net/manual/zh/getting-started.php
+
+2.PHP教程：
 http://www.w3school.com.cn/php/index.asp
 
 2.PHP 新手指南：
 http://wiki.jikexueyuan.com/project/php/
-电子书：http://pan.baidu.com/s/1gdlTZph
 
 
 3.PHP之道：
 http://wiki.jikexueyuan.com/project/php-right-way/
-电子书：http://pan.baidu.com/s/1kT6eBdX
 
 4.MySQL 中文版
 http://wiki.jikexueyuan.com/project/mysql/
-电子书：http://pan.baidu.com/s/1dDHMktN
 
 
 5.HTML基础教程：
@@ -54,11 +54,12 @@ https://secure.php.net/manual/zh/index.php
 2.MySQL 5.1 官方简体中文版参考手册：
 http://pan.baidu.com/s/1dDkCjeT
 
-3.ThinkPHP3.2.3完全开发手册：
+3.PhalApi开发文档：
+http://www.phalapi.net/wikis/
+
+4.ThinkPHP3.2.3完全开发手册：
 http://www.kancloud.cn/manual/thinkphp
 
-4.OneThink1.0开发手册：
-http://document.onethink.cn/manual_1_0.html
 
 5.正则表达式30分钟入门教程：
 http://deerchao.net/tutorials/regex/regex.htm
