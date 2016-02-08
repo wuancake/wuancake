@@ -4,14 +4,22 @@
 
 1.开发环境（任选其一即可）：
 1）Eclipse for PHP Developers：
-64位：http://mirrors.opencas.cn/eclipse//technology/epp/downloads/release/mars/1/eclipse-php-mars-1-win32-x86_64.zip
-32位：http://mirrors.opencas.cn/eclipse//technology/epp/downloads/release/mars/1/eclipse-php-mars-1-win32.zip
-eclipse需依赖JRE环境，下载地址：
-64位：http://download.oracle.com/otn-pub/java/jdk/7u79-b15/jre-7u79-windows-x64.exe
-32位：http://download.oracle.com/otn-pub/java/jdk/7u79-b15/jre-7u79-windows-i586.exe
-2）PhpStorm：
-http://download-cf.jetbrains.com/webide/PhpStorm-9.0.2.exe
 
+64位：http://mirrors.opencas.cn/eclipse//technology/epp/downloads/release/mars/1/eclipse-php-mars-1-win32-x86_64.zip
+
+32位：http://mirrors.opencas.cn/eclipse//technology/epp/downloads/release/mars/1/eclipse-php-mars-1-win32.zip
+
+eclipse需依赖JRE环境，下载地址：
+
+64位：http://120.52.73.79/download.oracle.com/otn-pub/java/jdk/7u79-b15/jre-7u79-windows-x64.exe
+
+32位：http://download.oracle.com/otn-pub/java/jdk/7u79-b15/jre-7u79-windows-i586.exe
+
+2）PhpStorm：
+https://d1opms6zj7jotq.cloudfront.net/webide/PhpStorm-10.0.3.exe
+
+3）Sublime Text 3：
+https://www.sublimetext.com/3
 
 2.本地WAMP环境——phpStudy：
 http://www.phpstudy.net/phpstudy/phpStudy.zip
