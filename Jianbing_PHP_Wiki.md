@@ -73,5 +73,7 @@ http://www.kancloud.cn/manual/thinkphp
 http://deerchao.net/tutorials/regex/regex.htm
 
 6.鸟哥的Linux私房菜（第三版）：
+
 基础篇：http://pan.baidu.com/share/link?uk=202032639&shareid=420754
+
 服务器篇：http://pan.baidu.com/share/link?uk=3526766639&shareid=3372918013
