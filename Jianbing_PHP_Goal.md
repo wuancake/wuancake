@@ -4,6 +4,6 @@
 
 1.简单注册登录页面
 
-相关需求如下图所示，代码文件放在src中，数据库文件放在data中：
+要求使用PHP语言写出简单的注册和登录页面，详细需求如下图所示：
 
 ![](https://raw.githubusercontent.com/wuanlife/Jianbing_Wiki/master/image/php_1.png)
