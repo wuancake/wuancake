@@ -4,15 +4,16 @@
 
 目前主流的版本控制工具有两种：SVN和Git，一般来说较传统的公司会用SVN，较新潮的公司会使用Git，关于这两者的区别见：http://blog.csdn.net/bruce_6/article/details/38299677
 
-由于煎饼计划的代码均需上传至github，我就以Windows平台下的TortoiseGit为例将下git的几个基本命令，当然学会了TortoiseGit，再学TortoiseSVN也很容易。
+由于煎饼计划的代码均需上传至GitHub，我就以Windows平台下的TortoiseGit为例将下Git的几个基本命令，当然学会了TortoiseGit，再学TortoiseSVN也很容易。
+
 ###二、注册GitHub账号
 
 在使用Git前，首先你要有个Git服务器，目前用的最多的免费git仓库是GitHub，注册地址是：https://github.com/join
 
-光有账号是不行的，你还需要相应的读写权限，想开通煎饼计划的Git，请联系陶陶为你开通权限
+光有账号是不行的，你还需要相应的读写权限，想开通煎饼计划的Git，请联系群里的@陶陶 为你开通权限
 
-陶陶邀请你后，你会收到一封邮件，点击同意即可开通
-没收到邮件的，访问下https://github.com/wuanlife，页面顶上会有相关的通知
+成功邀请你后，你会收到一封邮件，点击邮件里的链接即可开通。没收到邮件的，访问下https://github.com/wuanlife，页面顶上会有相关的通知
+
 ###三、TortoiseGit的基本操作
 ####1.安装
 在安装TortoiseGit前我们需先安装Git主程序，下载地址为：https://git-scm.com/downloads ，下载后一路next安装就可以。
@@ -20,7 +21,7 @@
 
 官方地址无法下载的，可以去网盘下载：http://pan.baidu.com/s/1sj9rsex 密码: 4jmg
 ####2.Clone
-例如午安煎饼计划PHP组的Git地址是：https://github.com/wuanlife/Jianbing_PHP.git ，前端组的Git地址是：https://github.com/wuanlife/Jianbing_Web.git ，UI组的Git地址是：https://github.com/wuanlife/Jianbing_UI.git ，复制下来。
+例如午安煎饼计划PHP组的Git地址是：https://github.com/wuanlife/Jianbing_PHP.git ，前端组的Git地址是：https://github.com/wuanlife/Jianbing_Web.git ，Android组的Git地址是：https://github.com/wuanlife/Jianbing_Android.git ，复制下来。
 
 然后打开硬盘里的一个目录，最好是专门开发用的目录，点右键，选择“Git Clone...”，将地址复制进去，点击OK，如图：
 
