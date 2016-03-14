@@ -4,8 +4,8 @@
 
 1.设计一款本地看书APP
 
-设计一款本地看书APP（非在线阅读），不限制iOS或Android，要求：
-1）使用xmind描述该app的框架和结构
-2）使用axure制作该app的流程图
-3）使用axure制作该app各页面的低保真原型图
+设计一款本地看书APP（非在线阅读），不限制iOS或Android，要求：<br>
+1）使用xmind描述该app的框架和结构<br>
+2）使用axure制作该app的流程图<br>
+3）使用axure制作该app各页面的低保真原型图<br>
 4）使用word制作该app的产品需求文档
