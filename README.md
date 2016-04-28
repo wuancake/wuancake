@@ -8,5 +8,24 @@
 
 ###各分组学习内容
 
-[午安煎饼计划WEB前端组学习内容](/Wiki/Jianbing_Web_Wiki.md)
-[午安煎饼计划PHP组学习内容](/Wiki/Jianbing_PHP_Wiki.md)
+[WEB前端组学习内容](/Wiki/Jianbing_Web_Wiki.md)
+
+[PHP组学习内容](/Wiki/Jianbing_PHP_Wiki.md)
+
+[UI设计组学习内容](/Wiki/Jianbing_UI_Wiki.md)
+
+[Android组学习内容](/Wiki/Jianbing_Android_Wiki.md)
+
+[PM组学习内容](/Wiki/Jianbing_PM_Wiki.md)
+
+###各分组阶段性目标
+
+[Web前端组阶段性目标](/Goal/Jianbing_Web_Goal.md)
+
+[PHP组阶段性目标](/Goal/Jianbing_PHP_Goal.md)
+
+[UI设计组阶段性目标](/Goal/Jianbing_UI_Goal.md)
+
+[Android组阶段性目标](/Goal/Jianbing_Android_Goal.md)
+
+[PM组阶段性目标](/Goal/Jianbing_PM_Goal.md)
