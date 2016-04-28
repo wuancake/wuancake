@@ -29,3 +29,9 @@
 [Android组阶段性目标](/Goal/Jianbing_Android_Goal.md)
 
 [PM组阶段性目标](/Goal/Jianbing_PM_Goal.md)
+
+###其它内容
+
+[浅谈互联网公司各职业的分工](/Others/Internet_Works.md)
+
+[Git使用简明教程](/Others/Git_Helper.md)
