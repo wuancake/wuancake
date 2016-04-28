@@ -9,3 +9,4 @@
 ###各分组学习内容
 
 [午安煎饼计划WEB前端组学习内容](/Wiki/Jianbing_Web_Wiki.md)
+[午安煎饼计划PHP组学习内容](/Wiki/Jianbing_PHP_Wiki.md)
