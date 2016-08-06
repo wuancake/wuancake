@@ -1,12 +1,12 @@
-#午安煎饼计划PM组学习内容v1.0
+#午安煎饼计划PM组学习内容v1.0.1
 
 ###一、准备工作
 
-1.原型设计工具：Axure 7.0
-https://axure.cachefly.net/AxureRP-Pro-Setup.exe
+1.原型设计工具：Axure 8.0
+https://axure.cachefly.net/AxureRP-Setup.exe
 
 2.思维导图工具：XMind 7
-http://xmind-dl.oss-cn-qingdao.aliyuncs.com/xmind-7-update1-windows.exe
+http://xiazai.xmindchina.cn/trail/xmind-7-windows.exe
 
 3.办公套件：Office 2016：
 
