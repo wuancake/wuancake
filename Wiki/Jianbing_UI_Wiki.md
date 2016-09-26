@@ -1,21 +1,18 @@
-#午安煎饼计划UI设计组学习内容v1.0.1
+#午安煎饼计划UI设计组学习内容v1.0.2
 
 ###一、准备工作
 
-1.Adobe Illustrator CC 2015
-官网原下载地址：（用迅雷下）
+1.Adobe Illustrator CC 2015.3.1
 
-x86:http://trials3.adobe.com/AdobeProducts/ILST/19/win32/Illustrator_19_LS20_win32.7z
+32位：https://pan.baidu.com/s/1bTmT2I
 
-x64:http://trials3.adobe.com/AdobeProducts/ILST/19/win64/Illustrator_19_LS20_win64.7z
+64位：https://pan.baidu.com/s/1jI8oeJO
 
+2.Adobe Photoshop CC 2015.5
 
-2.Adobe Photoshop CC 2015
-官网原下载地址：（用迅雷下）
+32位：https://download-esd.adobeoobe.com/AdobeProducts/eca60e6c-1f05-41de-bf6b-aeef2bc46205/PHSP/17.0/win32/AdobePhotoshop17-mul.zip
 
-x86:http://trials3.adobe.com/AdobeProducts/PHSP/16/win32/Photoshop_16_LS20_win32.7z
-
-x64:http://trials3.adobe.com/AdobeProducts/PHSP/16/win64/Photoshop_16_LS20_win64.7z
+64位：https://download-esd.adobeoobe.com/AdobeProducts/eca60e6c-1f05-41de-bf6b-aeef2bc46205/PHSP/17.0/win64/AdobePhotoshop17-mul_x64.zip
 
 
 3.其它
