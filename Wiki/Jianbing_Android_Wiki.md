@@ -2,8 +2,9 @@
 
 ###一、准备工作
 
-1.开发环境：Android Studio 1.5.1
-https://dl.google.com/dl/android/studio/install/1.5.1.0/android-studio-bundle-141.2456560-windows.exe
+1.开发环境：Android Studio 2.2.0.12
+
+https://dl.google.com/dl/android/studio/install/2.2.0.12/android-studio-bundle-145.3276617-windows.exe
 
 ###二、基础阶段推荐内容
 
