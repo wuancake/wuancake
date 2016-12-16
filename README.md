@@ -18,6 +18,8 @@
 
 [PM组学习内容](/Wiki/Jianbing_PM_Wiki.md)
 
+[QA组学习内容](/Wiki/Jianbing_QA_Wiki.md)
+
 ###各分组阶段性目标
 
 [Web前端组阶段性目标](/Goal/Jianbing_Web_Goal.md)
@@ -27,8 +29,6 @@
 [UI设计组阶段性目标](/Goal/Jianbing_UI_Goal.md)
 
 [Android组阶段性目标](/Goal/Jianbing_Android_Goal.md)
-
-[PM组阶段性目标](/Goal/Jianbing_PM_Goal.md)
 
 ###其它内容
 
