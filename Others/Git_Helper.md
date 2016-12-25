@@ -21,7 +21,7 @@
 
 官方地址无法下载的，可以去网盘下载：http://pan.baidu.com/s/1sj9rsex 密码: 4jmg
 ####2.Clone
-例如午安煎饼计划PHP组的Git地址是：https://github.com/wuanlife/Jianbing_PHP.git ，前端组的Git地址是：https://github.com/wuanlife/Jianbing_Web.git ，Android组的Git地址是：https://github.com/wuanlife/Jianbing_Android.git ，复制下来。
+例如午安煎饼计划PHP组的Git地址是：https://github.com/wuancake/wuancake_php.git ，前端组的Git地址是：https://github.com/wuancake/wuancake_web.git ，Android组的Git地址是：https://github.com/wuancake/wuancake_android.git ，复制下来。
 
 然后打开硬盘里的一个目录，最好是专门开发用的目录，点右键，选择“Git Clone...”，将地址复制进去，点击OK，如图：
 
