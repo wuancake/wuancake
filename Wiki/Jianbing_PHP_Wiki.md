@@ -61,8 +61,8 @@ https://secure.php.net/manual/zh/index.php
 http://pan.baidu.com/s/1dDkCjeT
 
 
-8）ThinkPHP3.2.3完全开发手册：
-http://www.kancloud.cn/manual/thinkphp
+8）ThinkPHP5.1完全开发手册：
+https://www.kancloud.cn/manual/thinkphp5_1
 
 
 9）正则表达式30分钟入门教程：
