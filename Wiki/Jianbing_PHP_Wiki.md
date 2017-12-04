@@ -13,7 +13,7 @@
 以下内容不要求全部学完，也不用局限于以下内容，大家选择适合自己的学习方案即可。
 
 #### 0.开发环境
-任选其一即可
+IDE任选其一即可
 
 1）Sublime Text 3：
 https://www.sublimetext.com/3
@@ -24,7 +24,7 @@ https://d1opms6zj7jotq.cloudfront.net/webide/PhpStorm-10.0.3.exe
 
 
 
-2.本地WAMP环境——phpStudy：
+3）本地WAMP环境——phpStudy：
 http://www.phpstudy.net/phpstudy/phpStudy2017.zip
 
 
