@@ -1,37 +1,39 @@
-# 午安煎饼计划
+# wuancake
 
-本页面汇集午安煎饼计划的总则、学习内容、阶段性目标，以及其它相关内容。
+#### 项目介绍
+{**以下是码云平台说明，您可以替换为您的项目简介**
+码云是开源中国推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
+无论是个人、团队、或是企业，都能够用码云实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
 
-### 总则
+#### 软件架构
+软件架构说明
 
-[午安煎饼计划总则](Wuancake.md)
 
-### 各分组学习内容
+#### 安装教程
 
-[WEB前端组学习内容](/Wiki/Jianbing_Web_Wiki.md)
+1. xxxx
+2. xxxx
+3. xxxx
 
-[PHP组学习内容](/Wiki/Jianbing_PHP_Wiki.md)
+#### 使用说明
 
-[UI设计组学习内容](/Wiki/Jianbing_UI_Wiki.md)
+1. xxxx
+2. xxxx
+3. xxxx
 
-[Android组学习内容](/Wiki/Jianbing_Android_Wiki.md)
+#### 参与贡献
 
-[PM组学习内容](/Wiki/Jianbing_PM_Wiki.md)
+1. Fork 本项目
+2. 新建 Feat_xxx 分支
+3. 提交代码
+4. 新建 Pull Request
 
-[QA组学习内容](/Wiki/Jianbing_QA_Wiki.md)
 
-### 各分组阶段性目标
+#### 码云特技
 
-[Web前端组阶段性目标](/Goal/Jianbing_Web_Goal.md)
-
-[PHP组阶段性目标](/Goal/Jianbing_PHP_Goal.md)
-
-[UI设计组阶段性目标](/Goal/Jianbing_UI_Goal.md)
-
-[Android组阶段性目标](/Goal/Jianbing_Android_Goal.md)
-
-### 其它内容
-
-[浅谈互联网公司各职业的分工](/Others/Internet_Works.md)
-
-[Git使用简明教程](/Others/Git_Helper.md)
+1. 使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
+2. 码云官方博客 [blog.gitee.com](https://blog.gitee.com)
+3. 你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
+4. [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
+5. 码云官方提供的使用手册 [http://git.mydoc.io/](http://git.mydoc.io/)
+6. 码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
