@@ -3,7 +3,7 @@
 
 需求是这样的，现在你要完成一个评论页面，包括评论的输入和显示。
 
-![](https://user-gold-cdn.xitu.io/2017/12/23/1608297fa1b24431?w=549&h=429&f=png&s=18147)
+![](https://coding.net/u/wuancake/p/wuancake/git/raw/master/tests/1608297fa1b24431.png)
 
 # 要求
 1. 样式之类的不需要过多的做，只需要功能就行，毕竟考察的主要是Vue。
