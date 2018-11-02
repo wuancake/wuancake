@@ -1,6 +1,6 @@
 # 午安煎饼计划学习内容汇总
 
-[Web前端组学习内容](https://gitee.com/wuancake/wuancake/blob/master/docs/wuancake_web.md)
+[Web前端组学习内容](/wuancake_web.md)
 
 [PHP组学习内容](https://gitee.com/wuancake/wuancake/blob/master/docs/wuancake_php.md)
 
