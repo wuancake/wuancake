@@ -54,6 +54,8 @@ PHP之道：https://laravel-china.github.io/php-the-right-way/
 
 基于Laravel框架编写一个留言板，要求实现新增留言、查看留言、删除留言功能。
 
+完成该阶段考核任务即可进入煎饼计划开发组。
+
 ### 2.学习内容
 
 最新版Homestead下载：https://pan.baidu.com/s/16MuqajLZFCGBCu_3tre2yA 密码: 79sh

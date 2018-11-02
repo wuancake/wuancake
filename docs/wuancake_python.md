@@ -48,6 +48,8 @@ Python开发简单爬虫：https://www.imooc.com/learn/563
 
 将基础阶段考核所爬取的电影简介存储到MySQL某张数据表中，并使用Flask框架将该条数据从数据库中获取并输出为json格式。
 
+完成该阶段考核任务即可进入煎饼计划开发组。
+
 ### 2.学习内容
 
 MySQL 教程：http://www.runoob.com/mysql/mysql-tutorial.html
@@ -57,6 +59,8 @@ Python操作MySQL数据库：https://www.imooc.com/learn/475
 Python之Flask框架：Flask框架简介、安装、使用方法详细攻略：https://blog.csdn.net/qq_41185868/article/details/79846111
 
 Python微型web开发框架flask介绍及一个小例子：https://blog.csdn.net/liuchunming033/article/details/45536211
+
+Flask Web开发：基于Python的Web应用开发实战：https://book.douban.com/subject/26274202/
 
 Flask官方文档中文版：http://docs.jinkan.org/docs/flask/
 

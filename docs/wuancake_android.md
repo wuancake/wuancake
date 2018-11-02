@@ -46,6 +46,8 @@ Android 教程：http://www.runoob.com/android/android-tutorial.html
 
 利用网上公开的API，开发一款天气预报App，能够获取当地定位，并展示最新天气。
 
+完成该阶段考核任务即可进入煎饼计划开发组。
+
 ### 2.学习内容
 
 Android官方开发指南：https://developer.android.google.cn/guide/

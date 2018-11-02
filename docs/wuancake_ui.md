@@ -54,7 +54,9 @@ AI零基础入门教程：https://uiiiuiii.com/illustrator/12122680.html
 
 ### 1.考核任务
 
-使用Photoshop设计一个修改资料页面，原型以该原型图为准：http://7xnm42.com1.z0.glb.clouddn.com/UI.png ，要求在保证产品功能的前提下尽可能的美观，字号、配色、间距等细节良好。
+使用Photoshop设计一个修改资料页面，原型以该原型图为准：https://coding.net/u/wuancake/p/wuancake/git/raw/master/tests/UI.png ，要求在保证产品功能的前提下尽可能的美观，字号、配色、间距等细节良好，不得修改产品需求。
+
+完成该阶段考核任务即可进入煎饼计划开发组。
 
 ### 2.学习内容
 

@@ -1,4 +1,4 @@
-# 午安煎饼计划Web组学习内容 v2.1
+# 午安煎饼计划Web组学习内容 v2.2
 
 ## 一、职业介绍
 
@@ -26,7 +26,7 @@ Web 建站技术中，HTML、HTML5、XHTML、CSS、SQL、JavaScript、PHP、ASP.
 
 ### 1.考核任务
 
-用所学知识依照这个设计图编写网页，要具有较高的还原度：http://7xnm42.com1.z0.glb.clouddn.com/ftpm_128_bdd.zip
+用所学知识依照这个设计图编写网页，要具有较高的还原度：https://coding.net/u/wuancake/p/wuancake/git/raw/master/tests/ftpm_128_bdd.zip
 
 ### 2.学习内容
 
@@ -48,13 +48,15 @@ JavaScript进阶篇：http://www.imooc.com/learn/10
 
 ### 1.考核任务
 
-用所学知识，完成该任务：http://t.cn/R1QUaGK
+用所学知识，完成该任务：https://github.com/wuancake/wuancake/blob/master/tests/wuan_vue_beginner.md
 
 完成该阶段考核任务即可进入煎饼计划开发组。
 
 ### 2.学习内容
 
 JavaScript教程：http://www.runoob.com/js/js-tutorial.html
+
+vue2.5入门：https://www.imooc.com/learn/980
 
 Vue.js中文文档：https://cn.vuejs.org/v2/guide/
 
