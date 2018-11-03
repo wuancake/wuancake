@@ -14,7 +14,7 @@
 
 1）UI设计组：通过Photoshop、Illustrator等进行UI设计、交互设计、平面设计等。
 
-2）Web前端组：通过HTML、CSS、JavaScript、Node.js等进行Web前端开发。
+2）Web前端组：通过HTML、CSS、JavaScript、Node.js等进行Web前端以及各类小程序的开发。
 
 3）PHP组：通过PHP语言、MySQL数据库等进行服务器端程序开发。
 
