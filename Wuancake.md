@@ -12,7 +12,7 @@
 
 午安煎饼计划v2.2计划培养以下7个方向的学员：
 
-1）UI设计组：通过Photoshop、Illustrator等进行UI设计、交互设计、平面设计等。
+1）UI设计组：通过Photoshop、Illustrator、Sketch等进行UI设计、交互设计、平面设计等。
 
 2）Web前端组：通过HTML、CSS、JavaScript、Node.js等进行Web前端以及各类小程序的开发。
 
