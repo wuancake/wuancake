@@ -94,6 +94,8 @@ PWA简介：https://lavas.baidu.com/pwa
 
 React 中文文档：https://doc.react-china.org/
 
+TypeScript 中文手册：https://typescript.bootcss.com/
+
 JavaScript高级程序设计（第3版）：https://book.douban.com/subject/10546125/
 
 Front-End Developer Handbook 2018：https://frontendmasters.gitbooks.io/front-end-developer-handbook-2018/
