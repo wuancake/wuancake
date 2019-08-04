@@ -1,4 +1,4 @@
-# 午安煎饼计划Web组学习内容 v2.2
+# 午安煎饼计划Web组学习内容 v2.2.1
 
 ## 一、职业介绍
 
@@ -18,7 +18,7 @@ Web 建站技术中，HTML、HTML5、XHTML、CSS、SQL、JavaScript、PHP、ASP.
 
 前端必备的Chrome浏览器：https://api.shuax.com/tools/getchrome
 
-开发工具HBuilder：https://www.dcloud.io/ ，当然也可以选择Sublime Text、Notepad++、WebStorm等工具
+代码编辑器Visual Studio Code：https://code.visualstudio.com/ ，当然也可以选择HBuilder、Sublime Text、Notepad++、WebStorm等工具
 
 ## 三、基础阶段
 
@@ -60,9 +60,11 @@ vue2.5入门：https://www.imooc.com/learn/980
 
 Vue.js中文文档：https://cn.vuejs.org/v2/guide/
 
-微信小程序开发文档：https://developers.weixin.qq.com/miniprogram/dev/index.html
+Nuxt.js中文文档：https://zh.nuxtjs.org/
 
-mpvue框架文档：http://mpvue.com/
+uni-app：https://uniapp.dcloud.io/
+
+微信小程序开发文档：https://developers.weixin.qq.com/miniprogram/dev/index.html
 
 正则表达式30分钟入门教程：http://deerchao.net/tutorials/regex/regex.htm
 
