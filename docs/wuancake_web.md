@@ -16,9 +16,9 @@ Web 建站技术中，HTML、HTML5、XHTML、CSS、SQL、JavaScript、PHP、ASP.
 
 进行开发前，你需要安装一些软件。
 
-前端必备的Chrome浏览器：https://www.google.cn/intl/zh-CN/chrome/
+1.前端必备的Chrome浏览器：https://www.google.cn/intl/zh-CN/chrome/
 
-代码编辑器（任选其一即可）：
+2.代码编辑器（任选其一即可）：
 
 Visual Studio Code：https://code.visualstudio.com/ ，汉化方法：https://blog.csdn.net/u011127019/article/details/82716151
 
