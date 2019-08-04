@@ -18,7 +18,15 @@ Web 建站技术中，HTML、HTML5、XHTML、CSS、SQL、JavaScript、PHP、ASP.
 
 前端必备的Chrome浏览器：https://www.google.cn/intl/zh-CN/chrome/
 
-代码编辑器Visual Studio Code：https://code.visualstudio.com/ ，当然也可以选择HBuilder、Sublime Text、Notepad++、WebStorm等工具
+代码编辑器（任选其一即可）：
+
+Visual Studio Code：https://code.visualstudio.com/ ，汉化方法：https://blog.csdn.net/u011127019/article/details/82716151
+
+WebStorm：https://www.jetbrains.com/webstorm/ ，汉化方法：https://github.com/pingfangx/TranslatorX/wiki/Usage ，学生用户申请免费账号：https://www.jetbrains.com/zh/student/
+
+HBuilderX：https://www.dcloud.io/hbuilderx.html
+
+也可以选择Sublime Text、Notepad++等工具
 
 ## 三、基础阶段
 
