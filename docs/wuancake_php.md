@@ -1,4 +1,4 @@
-# 午安煎饼计划PHP组学习内容 v2.1
+# 午安煎饼计划PHP组学习内容 v2.2.1
 
 ## 一、职业介绍
 
@@ -16,9 +16,19 @@ PHP 前景如何？作为程序员应该向哪个方向努力？：https://www.z
 
 进行开发前，你需要安装一些软件。
 
-本地环境phpStudy：http://www.phpstudy.net/ ，当然也可以使用WampServer。
+1.本地PHP环境（任选其一即可）：
 
-开发工具Sublime Text 3：https://www.sublimetext.com/ ，当然也可以使用PhpStorm等工具。
+phpStudy：http://www.phpstudy.net/
+
+WampServer：http://www.wampserver.com/en/
+
+2.代码编辑器（任选其一即可）：
+
+PhpStorm：https://www.jetbrains.com/phpstorm/ ，汉化方法：https://github.com/pingfangx/TranslatorX/wiki/Usage ，学生用户申请免费账号：https://www.jetbrains.com/zh/student/
+
+Visual Studio Code：https://code.visualstudio.com/ ，汉化方法：https://blog.csdn.net/u011127019/article/details/82716151
+
+也可以选择Sublime Text、Notepad++等工具
 
 ## 三、基础阶段
 
@@ -58,9 +68,9 @@ PHP之道：https://laravel-china.github.io/php-the-right-way/
 
 ### 2.学习内容
 
-最新版Homestead下载：https://pan.baidu.com/s/16MuqajLZFCGBCu_3tre2yA 密码: 79sh
+最新版Homestead下载：https://pan.baidu.com/s/1WeQ-Sp33NHjfLXQkN65oDQ 提取码: ana3 
 
-手把手教你Homestead安装：https://www.jianshu.com/p/ae9d1261bbd8
+手把手教你Homestead安装：https://www.jianshu.com/p/ae9d1261bbd8 （文中的版本没有上个链接的新）
 
 轻松学会Laravel-基础篇：http://www.imooc.com/learn/697
 
@@ -68,7 +78,7 @@ PHP之道：https://laravel-china.github.io/php-the-right-way/
 
 轻松学会Laravel-高级篇：http://www.imooc.com/learn/702
 
-Laravel 5.6 中文文档：http://laravelacademy.org/laravel-docs-5_6
+Laravel 5.8中文文档：https://laravelacademy.org/laravel-docs-5_8
 
 正则表达式30分钟入门教程：http://deerchao.net/tutorials/regex/regex.htm
 
