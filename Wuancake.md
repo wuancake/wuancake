@@ -44,7 +44,7 @@
 #### 3.报名方法
 
 1）加入报名QQ群：<font color=red><b>497280824</b></font>。<br>
-2）注册考勤系统：https://www.wuancake.org/。<br>
+2）注册考勤系统：https://www.wuancake.org/ 。<br>
 3）根据自身情况，加入群公告中对应的分组QQ群。
 
 注意：<br>
