@@ -1,4 +1,4 @@
-# 午安煎饼计划Java组学习内容 v2.1
+# 午安煎饼计划Java组学习内容 v2.2.1
 
 ## 一、职业介绍
 
@@ -14,9 +14,9 @@ Java 初学者，如何学习 Java？：https://www.zhihu.com/question/22407671/
 
 进行学习前，你需要安装一些软件。
 
-Java环境JDK8：http://www.oracle.com/technetwork/cn/java/javase/downloads/jdk8-downloads-2133151-zhs.html
+1.Java环境JDK8：https://www.oracle.com/technetwork/cn/java/javase/downloads/jdk8-downloads-2133151-zhs.html
 
-开发工具IntelliJ IDEA：https://www.jetbrains.com/idea/download/ ，也可以选择Spring Tool Suite。
+2.开发工具IntelliJ IDEA：https://www.jetbrains.com/idea/ ，汉化方法：https://github.com/pingfangx/TranslatorX/wiki/Usage ，学生用户申请免费账号：https://www.jetbrains.com/zh/student/
 
 ## 三、基础阶段
 
@@ -66,7 +66,7 @@ Java核心技术·卷 II：https://book.douban.com/subject/27165931/
 
 1）JavaEE介绍：https://blog.csdn.net/xinxin19881112/article/details/4523274
 
-2）下载所需知识的相关内容：http://pan.baidu.com/s/1i5EFdK5 密码: wuvt
+2）下载所需知识的相关内容：https://pan.baidu.com/s/1nZF5n1pdDqooSRdOqjSXEw 提取码: 4des 
 
 3）前导知识
 
