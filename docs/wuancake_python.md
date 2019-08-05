@@ -1,4 +1,4 @@
-# 午安煎饼计划Python组学习内容 v1.0
+# 午安煎饼计划Python组学习内容 v2.2.1
 
 ## 一、职业介绍
 
@@ -14,9 +14,9 @@ Python 适合初学编程的人学吗？：https://www.zhihu.com/question/196664
 
 进行开发前，你需要安装一些软件。
 
-Python环境：https://www.python.org/downloads/
+1.Python环境：https://www.python.org/downloads/
 
-开发工具PyCharm：http://www.jetbrains.com/pycharm/download/ （Community版免费），当然也可以使用Sublime等工具。
+2.开发工具PyCharm：http://www.jetbrains.com/pycharm/download/ ，汉化方法：https://github.com/pingfangx/TranslatorX/wiki/Usage ，学生用户申请免费账号：https://www.jetbrains.com/zh/student/
 
 ## 三、基础阶段
 
