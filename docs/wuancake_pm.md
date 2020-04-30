@@ -1,4 +1,4 @@
-# 午安煎饼计划PM组学习内容 v2.2
+# 午安煎饼计划PM组学习内容 v2.3
 
 ## 一、职业介绍
 
@@ -6,102 +6,85 @@
 
 产品经理的薪资水平可参考拉勾网：https://www.lagou.com/zhaopin/chanpinjingli1/
 
-产品经理的职责有哪些？到底该做什么？：https://www.zhihu.com/question/19563363
-
-产品经理的一天是怎样的？：https://www.zhihu.com/question/19676106
-
 产品经理为什么会存在？：https://www.zhihu.com/question/21348737
 
 ## 二、准备工作
 
-进行学习前，你需要安装一些软件。
+进行学习前，你需要安装一些软件或注册相应的云服务。
 
-原型设计工具AxureRP 8：自行下载
+1.原型设计工具 
 
-思维导图工具XMind：https://www.xmind.cn/
+1）产品经理必备工具 AxureRP：https://www.axure.com/
 
-微软Ofiice：自行下载
+2）敏捷的在线原型工具 墨刀：https://modao.cc/
+
+2.思维导图工具（任选其一即可）
+
+1）老牌思维导图工具 XMind：https://www.xmind.cn/
+
+2）大纲式思维导图工具 幕布：https://mubu.com/
+
+3）金山文档也提供思维导图功能：https://www.kdocs.cn/
+
+3.流程图工具（任选其一即可）
+
+1）在线流程图工具 ProcessOn：https://www.processon.com/
+
+2）金山文档也提供流程图功能：https://www.kdocs.cn/
+
+4.文档、表格、幻灯片工具（任选其一即可）
+
+1）微软Office：https://www.office.com/
+
+2）WPS Office：https://www.wps.cn/
 
 ## 三、基础阶段
 
-该阶段主要了解产品经理的工作内容，学习原型设计和思维导图工具的使用。
+该阶段主要了解产品经理的工作内容，学习原型设计和思维导图等工具的使用，学习产品需求文档的写作。
 
 ### 1.考核任务
 
-打开微信的朋友圈页面，使用XMind画出该模块的产品框架，并使用Axure RP画出该页面的低保真原型。
+体验我们的考勤系统：https://www.wuancake.org/ ，使用思维导图画出该系统的产品结构，并画出该系统的流程图，同时使用Axure RP画出该页面的低保真原型，并书写完整的产品需求文档。
 
 ### 2.学习内容
 
 以下内容不要求全部学完，也不用局限于以下内容，大家选择适合自己的学习方案，能完成考核任务即可。
 
-1）人人都是产品经理：https://book.douban.com/subject/4723970/
+1）产品经理的职责有哪些？到底该做什么？：https://www.zhihu.com/question/19563363
 
-2）axure新手入门：
+2）产品经理的一天是怎样的？：https://www.zhihu.com/question/19676106
 
-http://www.woshipm.com/rp/39203.html
+3）如何学习使用 Axure？：https://www.zhihu.com/question/19892861
 
-http://www.woshipm.com/rp/39208.html
+4）怎么使用思维导图：http://www.zhihu.com/question/19651621
 
-http://www.jianshu.com/p/9ea3d25513bf
+5）关于流程图，你想知道的都在这里：https://zhuanlan.zhihu.com/p/67533900
 
-3）怎么使用思维导图：http://www.zhihu.com/question/19651621
+6）如何写一份易用的产品需求文档？：https://www.zhihu.com/question/29213027
 
 ## 四、进阶阶段
 
-该阶段主要掌握流程图的绘制和产品需求文档的书写，了解主流设计规范，完成该阶段考核任务即可进入煎饼计划开发组。
+该阶段主要培养从需求分析到产品设计再到项目管理的产品研发、迭代的全流程，完成该阶段考核任务即可进入煎饼计划开发组。
 
 ### 1.考核任务
 
-针对微信的朋友圈模块进行一次产品更新，要求给出本次更新的流程图、思维导图、原型图、产品需求文档。
+针对煎饼计划考勤系统进行一次产品更新，要求给出本次更新的流程图、思维导图、原型图、产品需求文档。
 
 完成该阶段考核任务即可进入煎饼计划开发组。
 
 ### 2.学习内容
 
-1）产品需求文档模板
+1）看完知乎产品经理话题索引中的“用户需求”、“产品设计”、“进阶修炼”等部分的所有问答：https://www.zhihu.com/topic/19551325/index
 
-http://www.woshipm.com/discuss/119696.html
+2）每周写一个App的体验报告
 
-http://www.woshipm.com/xiazai/3680.html
-
-2）流程图的制作方法
-
-http://www.woshipm.com/rp/101189.html
-
-3）iOS11人机交互指南：https://pan.baidu.com/s/1P_xpXjDu5iPF9WHEbUV8Zw 密码：yutg
-
-苹果官网：https://developer.apple.com/ios/human-interface-guidelines/
-
-4）Material Design 指南中文版 https://www.mdui.org/design/
-
-Google官网：https://material.io/
-
-5）微信小程序设计指南：
-https://developers.weixin.qq.com/miniprogram/design/
+3）每周发掘一个生活中的需求，并想出改进方案
 
 ## 五、持续学习
 
-### 1.推荐书籍
+互联网行业是一个不断变化的行业，所以要持续学习。
 
-1）周鸿祎自述：https://book.douban.com/subject/25928983/
-
-2）参与感：https://book.douban.com/subject/25942507/
-
-3）淘宝十年产品事：https://book.douban.com/subject/25732463/
-
-4）结网：https://book.douban.com/subject/24305938/
-
-5）启示录：https://book.douban.com/subject/5914587/
-
-6）写给大家看的设计书：https://book.douban.com/subject/26664522/
-
-7）史玉柱自述：https://book.douban.com/subject/26257497/
-
-8）浪潮之巅：https://book.douban.com/subject/26792439/
-
-9）史蒂夫·乔布斯传：https://book.douban.com/subject/25810506/
-
-### 2.推荐网站
+### 1.推荐网站
 
 1）人人都是产品经理
 
@@ -123,14 +106,35 @@ http://www.pmcaff.com/
 
 http://www.masterchat.cn/
 
-### 3.在线工具
+### 2.推荐书籍
 
-1）在线原型工具 磨刀：https://modao.cc/
+1）人人都是产品经理：https://book.douban.com/subject/4723970/
 
-2）在线流程图制作工具 ProcessOn：https://www.processon.com/
+2）运营之光：https://book.douban.com/subject/30370639/
 
-3）时间管理工具 滴答清单：https://www.dida365.com/
+3）参与感：https://book.douban.com/subject/25942507/
 
-4）在线云笔记 有道云笔记：https://note.youdao.com/
+4）淘宝十年产品事：https://book.douban.com/subject/25732463/
 
-5）坚果云同步：https://www.jianguoyun.com/
+5）结网：https://book.douban.com/subject/24305938/
+
+6）启示录：https://book.douban.com/subject/5914587/
+
+7）写给大家看的设计书：https://book.douban.com/subject/26664522/
+
+8）史玉柱自述：https://book.douban.com/subject/26257497/
+
+9）浪潮之巅：https://book.douban.com/subject/26792439/
+
+10）史蒂夫·乔布斯传：https://book.douban.com/subject/25810506/
+
+11）俞军产品方法论：https://book.douban.com/subject/34907971/
+
+12）周鸿祎自述：https://book.douban.com/subject/25928983/
+
+
+
+
+
+
+
