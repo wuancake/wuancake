@@ -1,4 +1,4 @@
-# 午安煎饼计划UI组学习内容 v2.1
+# 午安煎饼计划UI组学习内容 v2.3
 
 ## 一、职业介绍
 
@@ -6,7 +6,7 @@
 
 在设计师领域，在PC端从事网页设计的人我们称为WUI (Web User Interface)设计师或网页设计师。在移动端从事移动设计的人，我们称为GUI (Graphics User Interface)设计师，因为移动端会有大量图形用户界面设计。在公司中，人们并不会很清楚地区分两种职能，都统称为UI设计师，如下图所示。
 
-![](https://ws1.sinaimg.cn/large/4079825aly1freol0ore7j206905wmyd.jpg)
+![](https://wx1.sinaimg.cn/large/4079825aly1freol0ore7j206905wmyd.jpg)
 
 因为他们产出的都是用户界面，都需要对产品的界面视觉负责。——摘自《术与道—移动应用UI设计必修课》——余振华。
 
@@ -38,7 +38,7 @@ Cutterman：http://www.cutterman.cn/zh/cutterman
 
 ### 1.考核任务
 
-使用PS或AI临摹手机自带的天气App主界面。
+使用PS或AI临摹微信主界面。
 
 ### 2.学习内容
 
@@ -48,13 +48,15 @@ PS零基础入门教程：https://uiiiuiii.com/photoshop/12121781.html
 
 AI零基础入门教程：https://uiiiuiii.com/illustrator/12122680.html
 
+每周临摹一个App界面
+
 ## 四、进阶阶段
 
 进阶阶段，正式入门UI设计，学习设计思想与设计规范，完成该阶段考核任务即可进入煎饼计划开发组。
 
 ### 1.考核任务
 
-使用Photoshop设计一个修改资料页面，原型以该原型图为准：https://coding.net/u/wuancake/p/wuancake/git/raw/master/tests/UI.png ，要求在保证产品功能的前提下尽可能的美观，字号、配色、间距等细节良好，不得修改产品需求。
+使用PS或AI为考勤系统手机版v2.0设计界面，以该原型图为准：https://lanhuapp.com/url/SLIma ，要求在保证产品功能的前提下尽可能的美观，字号、配色、间距等细节良好，不得修改产品需求。
 
 完成该阶段考核任务即可进入煎饼计划开发组。
 
@@ -62,18 +64,22 @@ AI零基础入门教程：https://uiiiuiii.com/illustrator/12122680.html
 
 以下内容不要求全部学完，也不用局限于以下内容，大家选择适合自己的学习方案即可。
 
-1）《术与道—移动应用UI设计必修课》——余振华。如果第一次接触UI的话，这本书必看，先对UI有个概念，把基础知识补充下，先入门。
+1）iOS13人机交互指南中文版：https://pan.baidu.com/s/1XtIuoKDEBP6ibm4abnLMJg  密码：2ovp
 
-2）《视界·无界：写给UI设计师的设计书》——王涵。站酷大神牛MO王
-写的干货。
+苹果官网英文原版：https://developer.apple.com/ios/human-interface-guidelines/
 
-3）阿里设计师：这一年我的个人提升 http://www.uisdc.com/2013-designer-growth
+2）《术与道—移动应用UI设计必修课》——余振华。如果第一次接触UI的话，这本书必看，先对UI有个概念，把基础知识补充下，先入门：https://book.douban.com/subject/26774688/
 
-4）关于APP的设计和切图 http://www.zcool.com.cn/article/ZMTM3OTky.html
+3）《视界·无界：写给UI设计师的设计书》——王涵。站酷大神牛MO王
+写的干货：https://book.douban.com/subject/34457323/
 
-5）设计师DPI指南(翻译) http://www.w3ctech.com/topic/674
+4）阿里设计师：这一年我的个人提升 http://www.uisdc.com/2013-designer-growth
 
-6）使用 Adobe Illustrator 做 UI 设计系列教程（来自：张泊宁）
+5）关于APP的设计和切图 http://www.zcool.com.cn/article/ZMTM3OTky.html
+
+6）设计师DPI指南(翻译) http://www.w3ctech.com/topic/674
+
+7）使用 Adobe Illustrator 做 UI 设计系列教程（来自：张泊宁）
 
 前言 http://zhuanlan.zhihu.com/akirachang/19667627
 
@@ -93,23 +99,17 @@ AI零基础入门教程：https://uiiiuiii.com/illustrator/12122680.html
 
 效果、外观面板和质感表现（下） http://zhuanlan.zhihu.com/akirachang/19716725
 
-7）iOS11人机交互指南：https://pan.baidu.com/s/1P_xpXjDu5iPF9WHEbUV8Zw 密码：yutg
-
-苹果官网：https://developer.apple.com/ios/human-interface-guidelines/
-
 8）Material Design 指南中文版 https://www.mdui.org/design/
 
-Google官网：https://material.io/
+Google官网英文原版：https://material.io/
 
 9）微信小程序设计指南：https://developers.weixin.qq.com/miniprogram/design/
 
-10）精准像素完美使用手册3.0 http://vdisk.weibo.com/s/zduirFgzkKgZz
-
-11）WEB设计指南！PS礼仪白皮书 http://hao.uisdc.com/ps/
+10）WEB设计指南！PS礼仪白皮书 http://hao.uisdc.com/ps/
 
 ## 五、持续学习
 
-1）设计师如何避免图片侵权？ http://www.zhihu.com/question/20369508/answer/15804962
+1）设计师如何避免图片侵权？ http://www.zhihu.com/question/20369508
 
 2）手机应用交互设计精髓 http://study.163.com/course/introduction/669002.htm#/courseDetail
 
@@ -121,11 +121,9 @@ Google官网：https://material.io/
 
 Infographics（信息图表）制作指南 http://www.geekpark.net/topics/121225
 
-绝对精品！15个有趣的网页设计相关的信息图 http://line25.com/articles/15-interesting-infographics-web-designers-will-enjoy
-
 4）关于素材、灵感
 
-iconfont：阿里巴巴矢量图标库http://www.iconfont.cn/plus/home/index
+iconfont：阿里巴巴矢量图标库 http://www.iconfont.cn/plus/home/index
 
 IconFinder：输入关键字查找图标 https://www.iconfinder.com/
 
@@ -145,27 +143,23 @@ behance：https://www.behance.net/
 
 交互设计师修炼指南！教你从零开始成为优秀交互设计师 http://www.uisdc.com/interaction-designers-guide
 
-交互设计师的说话之道 —交互输出物规范再思考 http://www.aliued.cn/2015/04/30/wujunlan.html
+用户体验的要素：以用户为中心的Web设计：https://book.douban.com/subject/6523997/
 
-用户体验的要素：以用户为中心的Web设计 http://vdisk.weibo.com/s/aySxwhBXqadNf
+认知与设计：理解UI设计准则：https://book.douban.com/subject/25932290/
 
-认知与设计：理解UI设计准则 http://vdisk.weibo.com/s/aySxwhBXqadNb
+点石成金：访客至上的网页设计秘笈：https://book.douban.com/subject/33401218/
 
-点石成金：访客至上的网页设计秘笈（最新版本：点石成金:访客至上的Web和移动可用性设计秘笈）http://vdisk.weibo.com/s/aySxwhBXqadNx
+About Face 3：交互设计精髓：https://book.douban.com/subject/10557282/
 
-AboutFace 3 http://vdisk.weibo.com/s/Fgge7
+触动人心 设计优秀的IPHONE应用：https://book.douban.com/subject/6864391/
 
-触动人心 设计优秀的IPHONE应用 http://vdisk.weibo.com/s/zmXjKbCwa7UYr
+亲爱的界面：让用户乐于使用、爱不释手：https://book.douban.com/subject/30273011/
 
-亲爱的界面：让用户乐于使用、爱不释手 http://vdisk.weibo.com/s/zKA7IyzYg4rRd
+设计心理学：https://book.douban.com/subject/26742341/
 
-设计心理学 http://vdisk.weibo.com/s/Fg86Jj2Rg23rq
+众妙之门：移动Web设计精髓：https://book.douban.com/subject/20281463/
 
-设计心理学2：如何管理复杂 http://pan.baidu.com/s/1bn7FjuZ 密码: cxy2
-
-众妙之门：移动Web设计精髓（最新版本：众妙之门-移动交互体验设计） http://vdisk.weibo.com/s/u4YGBWB8f2EvG
-
-UX最佳实践：提高用户体验影响力的艺术 （找不到电子版，你们自己去淘宝买吧）
+UX最佳实践：提高用户体验影响力的艺术：https://book.douban.com/subject/22230799/
 
 6）Sketch
 
