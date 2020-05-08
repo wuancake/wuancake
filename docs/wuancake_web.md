@@ -1,4 +1,4 @@
-# 午安煎饼计划Web组学习内容 v2.2.1
+# 午安煎饼计划Web组学习内容 v2.3
 
 ## 一、职业介绍
 
@@ -34,7 +34,7 @@ HBuilderX：https://www.dcloud.io/hbuilderx.html
 
 ### 1.考核任务
 
-用所学知识依照这个设计图编写网页，要具有较高的还原度：https://coding.net/u/wuancake/p/wuancake/git/raw/master/tests/ftpm_128_bdd.zip
+用所学知识依照这个设计图编写网页，要具有较高的还原度：https://lanhuapp.com/url/cBIME-8b0GI （链接过期了可以联系陶陶更新，png和psd文件见群文件）
 
 ### 2.学习内容
 
@@ -68,9 +68,9 @@ vue2.5入门：https://www.imooc.com/learn/980
 
 Vue.js中文文档：https://cn.vuejs.org/v2/guide/
 
-Nuxt.js中文文档：https://zh.nuxtjs.org/
+uni-app跨平台框架官方教程：https://ke.qq.com/course/343370
 
-uni-app：https://uniapp.dcloud.io/
+uni-app官方文档：https://uniapp.dcloud.io/resource
 
 微信小程序开发文档：https://developers.weixin.qq.com/miniprogram/dev/index.html
 
@@ -97,5 +97,7 @@ React 中文文档：https://doc.react-china.org/
 TypeScript 中文手册：https://typescript.bootcss.com/
 
 JavaScript高级程序设计（第3版）：https://book.douban.com/subject/10546125/
+
+Flutter中文开发文档：https://flutter.cn/docs
 
 Front-End Developer Handbook 2018：https://frontendmasters.gitbooks.io/front-end-developer-handbook-2018/
