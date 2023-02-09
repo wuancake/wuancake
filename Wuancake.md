@@ -12,9 +12,9 @@
 
 煎饼计划v3.0计划培养以下4个方向的学员：
 
-1）UI设计组：通过Photoshop、Illustrator、Sketch等进行UI设计、交互设计、平面设计等。
+1）UI设计组：通过Photoshop、Illustrator、Sketch、Figma等进行UI设计、交互设计、平面设计等。
 
-2）Web前端组：通过HTML、CSS、JavaScript等进行Web前端以及各类小程序的开发。
+2）Web前端组：通过HTML、CSS、JavaScript等进行Web前端开发，以及通过uni-app等跨平台框架进行小程序和App开发。
 
 3）产品经理组：互联网产品需求分析、产品设计、项目管理等。
 
