@@ -1,10 +1,10 @@
-# 午安煎饼计划PM组学习内容 v2.3
+# 煎饼计划PM组学习内容 v3.0
 
 ## 一、职业介绍
 
 产品经理是20世纪20年代宝洁公司提出的一个概念，即管理整个产品的全部周期的负责人。互联网公司中，产品经理往往要对产品进行规划、跟进设计、研发、测试、运营、市场推广、更新迭代等。
 
-产品经理的薪资水平可参考拉勾网：https://www.lagou.com/zhaopin/chanpinjingli1/
+产品经理的薪资水平可参考BOSS直聘：https://www.zhipin.com/c101010100-p110101/
 
 产品经理为什么会存在？：https://www.zhihu.com/question/21348737
 
@@ -14,23 +14,23 @@
 
 1.原型设计工具 
 
-1）产品经理必备工具 AxureRP：https://www.axure.com/
+1）产品经理必备工具 AxureRP 9：https://www.axure.com/release-history/rp9
 
 2）敏捷的在线原型工具 墨刀：https://modao.cc/
 
 2.思维导图工具（任选其一即可）
 
-1）老牌思维导图工具 XMind：https://www.xmind.cn/
+1）老牌思维导图工具 XMind：https://xmind.cn/
 
 2）大纲式思维导图工具 幕布：https://mubu.com/
 
-3）金山文档也提供思维导图功能：https://www.kdocs.cn/
+3）金山文档、腾讯文档等也提供类似功能
 
 3.流程图工具（任选其一即可）
 
 1）在线流程图工具 ProcessOn：https://www.processon.com/
 
-2）金山文档也提供流程图功能：https://www.kdocs.cn/
+2）金山文档、腾讯文档等也提供类似功能
 
 4.文档、表格、幻灯片工具（任选其一即可）
 
@@ -90,31 +90,27 @@
 
 http://www.woshipm.com/
 
-2）互联网早读课
+2）品玩
 
-http://zaodula.com/
+https://www.pingwest.com/
 
-3）产品100
+3）36氪
 
-http://www.chanpin100.com/
+https://36kr.com/
 
-4）PMCAFF
+4）虎嗅网
 
-http://www.pmcaff.com/
-
-5）产品邦
-
-http://www.masterchat.cn/
+https://www.huxiu.com/
 
 ### 2.推荐书籍
 
 1）人人都是产品经理：https://book.douban.com/subject/4723970/
 
-2）运营之光：https://book.douban.com/subject/30370639/
-
-3）参与感：https://book.douban.com/subject/25942507/
+2）俞军产品方法论：https://book.douban.com/subject/34907971/
 
 4）淘宝十年产品事：https://book.douban.com/subject/25732463/
+
+4）运营之光：https://book.douban.com/subject/30370639/
 
 5）结网：https://book.douban.com/subject/24305938/
 
@@ -128,7 +124,7 @@ http://www.masterchat.cn/
 
 10）史蒂夫·乔布斯传：https://book.douban.com/subject/25810506/
 
-11）俞军产品方法论：https://book.douban.com/subject/34907971/
+11）参与感：https://book.douban.com/subject/25942507/
 
 12）周鸿祎自述：https://book.douban.com/subject/25928983/
 
