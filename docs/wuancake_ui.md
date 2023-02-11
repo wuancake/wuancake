@@ -1,4 +1,4 @@
-# 午安煎饼计划UI组学习内容 v2.3
+# 煎饼计划UI组学习内容 v3.0
 
 ## 一、职业介绍
 
@@ -10,7 +10,7 @@
 
 因为他们产出的都是用户界面，都需要对产品的界面视觉负责。——摘自《术与道—移动应用UI设计必修课》——余振华。
 
-UI设计师的薪资水平可参考拉勾网：https://www.lagou.com/zhaopin/UIshejishi/
+UI设计师的薪资水平可参考BOSS直聘：https://www.zhipin.com/c101010100-p120105/
 
 UI一直做下去 比较理想的结果是什么？：https://www.zhihu.com/question/39416691
 
@@ -22,33 +22,45 @@ UI一直做下去 比较理想的结果是什么？：https://www.zhihu.com/ques
 
 进行学习前，你需要安装一些软件。
 
-Adobe Photoshop CC：自行下载
+1.设计类工具，任选其一即可
 
-Adobe Illustrator CC：自行下载
+Figma：https://www.figma.com/
 
-切图标注软件PxCook：http://www.fancynode.com.cn/pxcook
+MasterGo：https://mastergo.com/
 
-取色配色软件Color cube：http://www.fancynode.com.cn/colorcube/home
+即时设计：https://js.design/
 
-Cutterman：http://www.cutterman.cn/zh/cutterman
+Adobe Photoshop：自行下载
+
+Adobe Illustrator：自行下载
+
+Adobe XD：自行下载
+
+Sketch：自行下载
+
+2.切图标注类工具
+
+PxCook（适用于PS/Sketch/XD）适用于PS/Sketch/XD：http://www.fancynode.com.cn/pxcook
+
+Cutterman（适用于PS）：https://www.cutterman.cn/ps/cutterman
 
 ## 三、基础阶段
 
-基础阶段，主要学习PS和AI等工具的使用。
+基础阶段，主要学习设计工具的使用。
 
 ### 1.考核任务
 
-使用PS或AI临摹微信主界面。
+使用任意设计工具临摹微信第一屏界面。
 
 ### 2.学习内容
 
-以下内容不要求全部学完，也不用局限于以下内容，大家选择适合自己的学习方案，能完成考核任务即可。
+PS/AI等教程网上很多，可以任意选择一个学习，只要能做到临摹App界面即可。这里提供下Figma的教程：
 
-PS零基础入门教程：https://uiiiuiii.com/photoshop/12121781.html
+Figma学习路径：https://www.figma.cool/learning-paths
 
-AI零基础入门教程：https://uiiiuiii.com/illustrator/12122680.html
+Figma官方文档中文版：https://www.figma.cool/official-docs
 
-每周临摹一个App界面
+该阶段建议每周临摹一个App界面
 
 ## 四、进阶阶段
 
@@ -56,7 +68,7 @@ AI零基础入门教程：https://uiiiuiii.com/illustrator/12122680.html
 
 ### 1.考核任务
 
-使用PS或AI为考勤系统手机版v2.0设计界面，以该原型图为准：https://lanhuapp.com/url/SLIma ，要求在保证产品功能的前提下尽可能的美观，字号、配色、间距等细节良好，不得修改产品需求。
+使用PS或AI为考勤系统手机版v2.0设计界面，以该原型图为准：https://lanhuapp.com/link/#/invite?sid=lX01uzhI ，要求在保证产品功能的前提下尽可能的美观，字号、配色、间距等细节良好，不得修改产品需求。
 
 完成该阶段考核任务即可进入煎饼计划开发组。
 
@@ -64,48 +76,27 @@ AI零基础入门教程：https://uiiiuiii.com/illustrator/12122680.html
 
 以下内容不要求全部学完，也不用局限于以下内容，大家选择适合自己的学习方案即可。
 
-1）iOS13人机交互指南中文版：https://pan.baidu.com/s/1XtIuoKDEBP6ibm4abnLMJg  密码：2ovp
+1）iOS15人机交互指南中文版：https://pan.baidu.com/s/1aR2hHAneqWPukB7SzDAQ-A 提取码: 8xst
 
 苹果官网英文原版：https://developer.apple.com/ios/human-interface-guidelines/
 
-2）《术与道—移动应用UI设计必修课》——余振华。如果第一次接触UI的话，这本书必看，先对UI有个概念，把基础知识补充下，先入门：https://book.douban.com/subject/26774688/
-
-3）《视界·无界：写给UI设计师的设计书》——王涵。站酷大神牛MO王
-写的干货：https://book.douban.com/subject/34457323/
-
-4）阿里设计师：这一年我的个人提升 http://www.uisdc.com/2013-designer-growth
-
-5）关于APP的设计和切图 http://www.zcool.com.cn/article/ZMTM3OTky.html
-
-6）设计师DPI指南(翻译) http://www.w3ctech.com/topic/674
-
-7）使用 Adobe Illustrator 做 UI 设计系列教程（来自：张泊宁）
-
-前言 http://zhuanlan.zhihu.com/akirachang/19667627
-
-多重填充与多重描边 http://zhuanlan.zhihu.com/akirachang/19668066
-
-切图、导出的秘诀 http://zhuanlan.zhihu.com/akirachang/19668745
-
-灵活使用参考线 http://zhuanlan.zhihu.com/akirachang/19669230
-
-网格篇 http://zhuanlan.zhihu.com/akirachang/19670111
-
-在 AI 中使用内阴影效果，及其他 http://zhuanlan.zhihu.com/akirachang/19675967
-
-效果、外观面板和质感表现（上） http://zhuanlan.zhihu.com/akirachang/19691887
-
-效果、外观面板和质感表现（中） http://zhuanlan.zhihu.com/akirachang/19703440
-
-效果、外观面板和质感表现（下） http://zhuanlan.zhihu.com/akirachang/19716725
-
-8）Material Design 指南中文版 https://www.mdui.org/design/
+2）Material Design 3 中文版：https://www.yuque.com/advancedux/xr6e1n
 
 Google官网英文原版：https://material.io/
 
-9）微信小程序设计指南：https://developers.weixin.qq.com/miniprogram/design/
+3）微信小程序设计指南：https://developers.weixin.qq.com/miniprogram/design/
 
-10）WEB设计指南！PS礼仪白皮书 http://hao.uisdc.com/ps/
+4）《术与道—移动应用UI设计必修课》——余振华。如果第一次接触UI的话，这本书必看，先对UI有个概念，把基础知识补充下，先入门：https://book.douban.com/subject/26774688/
+
+5）《视界·无界：写给UI设计师的设计书》——王涵。站酷大神牛MO王写的干货：https://book.douban.com/subject/34457323/
+
+6）阿里设计师：这一年我的个人提升 http://www.uisdc.com/2013-designer-growth
+
+7）关于APP的设计和切图 http://www.zcool.com.cn/article/ZMTM3OTky.html
+
+8）设计师DPI指南(翻译) http://www.w3ctech.com/topic/674
+
+9）WEB设计指南！PS礼仪白皮书 http://hao.uisdc.com/ps/
 
 ## 五、持续学习
 
@@ -114,8 +105,6 @@ Google官网英文原版：https://material.io/
 2）手机应用交互设计精髓 http://study.163.com/course/introduction/669002.htm#/courseDetail
 
 3）说明图
-
-7个步骤教你制作出让人疯传的信息图 http://socialbeta.com/t/create-an-infographic.html
 
 经验分享！超赞的静态信息图设计方法 http://www.uisdc.com/static-information-design-method
 
@@ -127,7 +116,7 @@ iconfont：阿里巴巴矢量图标库 http://www.iconfont.cn/plus/home/index
 
 IconFinder：输入关键字查找图标 https://www.iconfinder.com/
 
-gif生成：gif图片到这里找，图片大小、颜色、速度可以自定义； http://preloaders.net/
+gif生成：gif图片到这里找，图片大小、颜色、速度可以自定义； https://icons8.com/preloaders/
 
 站酷：http://www.zcool.com.cn/
 
@@ -136,8 +125,6 @@ UI中国：http://www.ui.cn/
 花瓣：其中UI/UE板块有很多优秀的产品设计图片，碰到喜欢的图片可以采集下来。是找灵感、找素材的好地方。http://huaban.com/
 
 dribbble：和花瓣同类型，纯英文，全是大神 https://dribbble.com/
-
-behance：https://www.behance.net/
 
 5）关于交互（够看好几年的了，有空慢慢看）
 
