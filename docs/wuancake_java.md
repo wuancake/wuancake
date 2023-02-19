@@ -1,10 +1,10 @@
-# 午安煎饼计划Java组学习内容 v2.3
+# 午安煎饼计划Java组学习内容 v3.0
 
 ## 一、职业介绍
 
 Java是一种广泛使用的计算机编程语言，拥有跨平台、面向对象、泛型编程的特性，广泛应用于企业级Web应用开发和移动应用开发。
 
-Java程序员的薪资水平可参考拉勾网：https://www.lagou.com/zhaopin/Java/
+Java程序员的薪资水平可参考BOSS直聘：https://www.zhipin.com/c101010100-p100101/
 
 自学 Java 怎么入门？https://www.zhihu.com/question/25255189
 
@@ -16,10 +16,12 @@ Java 初学者，如何学习 Java？：https://www.zhihu.com/question/22407671
 
 1.Java环境JDK8：https://www.oracle.com/technetwork/cn/java/javase/downloads/jdk8-downloads-2133151-zhs.html
 
-2.开发工具IntelliJ IDEA：https://www.jetbrains.com/idea/ ，汉化方法：https://github.com/pingfangx/TranslatorX/wiki/Usage ，学生用户申请免费账号：https://www.jetbrains.com/zh/student/ 
+2.开发工具IntelliJ IDEA：https://www.jetbrains.com/zh-cn/idea/download/
 
-3.数据库MySQL：https://www.runoob.com/mysql/mysql-install.html，
-数据库管理工具Navicat：https://www.navicat.com.cn/products#navicat
+3.数据库MySQL（目前此见相关项目使用5.7）：https://downloads.mysql.com/archives/community/
+
+4.数据库管理工具Navicat for MySQL：https://www.navicat.com.cn/download/navicat-for-mysql
+
 ## 三、基础阶段
 
 基础阶段主要学习Java SE的语法、集合、XML文件格式和解析、String、面向对象、多线程、泛型、循环分支、Scanner等。
