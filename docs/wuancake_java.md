@@ -14,7 +14,7 @@ Java 初学者，如何学习 Java？：https://www.zhihu.com/question/22407671
 
 进行学习前，你需要安装一些软件。
 
-1.Java环境JDK8：https://www.oracle.com/technetwork/cn/java/javase/downloads/jdk8-downloads-2133151-zhs.html
+1.Java环境JDK8：https://caiyun.139.com/m/i?014MdMHbnt0N0 提取码:VVfX
 
 2.开发工具IntelliJ IDEA：https://www.jetbrains.com/zh-cn/idea/download/
 
@@ -68,7 +68,7 @@ Java核心技术·卷 II：https://book.douban.com/subject/27165931/
 
 1）JavaEE介绍：https://blog.csdn.net/xinxin19881112/article/details/4523274
 
-2）下载所需知识的相关内容：https://pan.baidu.com/s/1nZF5n1pdDqooSRdOqjSXEw 提取码: 4des 
+2）下载所需知识的相关内容：https://caiyun.139.com/m/i?014MdMHX7Dl4c 提取码:i1N6
 
 3）前导知识
 
@@ -116,7 +116,7 @@ day26 hotel_v1源码
 Mybatis: 与数据库做交互的持久层框架，属于半ORM框架，现在比较流行。与MyBatis作用差不多的还有一个Hibernate框架，不过该框架在新起的从0开始的项目中很难在见到使用者了，学习难度远远大于MyBatis。建议先学习MyBatis。
 
 
-Spring：这里指的是 www.spring.io组织发布的一系列框架中的核心框架。主要指图中的Core: 
+Spring：这里指的是 www.spring.io 组织发布的一系列框架中的核心框架。主要指图中的Core: 
 
 ![](https://cdn.jsdelivr.net/gh/natianzao/PicGo/img/spring_framework.gif)
 
@@ -138,13 +138,13 @@ SpringMVC：在MVC中指的就是C，控制。主要是控制页面间的跳转�
 
 Spring in Action: https://potoyang.gitbook.io/spring-in-action-v5/
 
-SpringBoot实战: http://dwz.cn/5WGntP
+SpringBoot实战: https://caiyun.139.com/m/i?015CHwy9ssuOj 提取码:UWbn
 
 MyBatis手册：https://mybatis.org/mybatis-3/zh/
 
 阿里巴巴JAVA开发手册: https://developer.aliyun.com/special/tech-java
 
-您的设计模式：http://download.csdn.net/detail/meryhuang/9922437
+您的设计模式：https://caiyun.139.com/m/i?015CHJ107WHZY 提取码:pwF1
 
 ### 2.网站推荐
 
