@@ -1,4 +1,4 @@
-# 午安煎饼计划Web组学习内容 v2.3
+# 午安煎饼计划Web组学习内容 v3.0
 
 ## 一、职业介绍
 
@@ -6,7 +6,7 @@ Web，顾名思义就是我们通过浏览器看到的网页。传统Web前端�
 
 随着技术的发展，Web工程师能做的事情越来越多。例如可以通过Node.js进行服务器端开发，可以通过React Native进行App开发，更可以使用JavaScript语言进行小程序、快应用等的开发。
 
-Web前端工程师的薪资水平可参考拉勾网：https://www.lagou.com/zhaopin/webqianduan/
+Web前端工程师的薪资水平可参考BOSS直聘：https://www.zhipin.com/c101010100-p100901/
 
 前端工程师的价值体现在哪里？：https://www.zhihu.com/question/19589966
 
@@ -22,8 +22,6 @@ Web 建站技术中，HTML、HTML5、XHTML、CSS、SQL、JavaScript、PHP、ASP.
 
 Visual Studio Code：https://code.visualstudio.com/ ，汉化方法：https://blog.csdn.net/u011127019/article/details/82716151
 
-WebStorm：https://www.jetbrains.com/webstorm/ ，汉化方法：https://github.com/pingfangx/TranslatorX/wiki/Usage ，学生用户申请免费账号：https://www.jetbrains.com/zh/student/
-
 HBuilderX：https://www.dcloud.io/hbuilderx.html
 
 也可以选择Sublime Text、Notepad++等工具
@@ -34,7 +32,7 @@ HBuilderX：https://www.dcloud.io/hbuilderx.html
 
 ### 1.考核任务
 
-用所学知识依照这个设计图编写网页，要具有较高的还原度：https://lanhuapp.com/url/cBIME-8b0GI （链接过期了可以联系陶陶更新，png和psd文件见群文件）
+用所学知识依照这个设计图编写考勤系统登录界面的移动版，要具有较高的还原度：https://lanhuapp.com/link/#/invite?sid=lX0Jafdi
 
 ### 2.学习内容
 
@@ -56,7 +54,7 @@ JavaScript进阶篇：http://www.imooc.com/learn/10
 
 ### 1.考核任务
 
-用所学知识，完成该任务：https://github.com/wuancake/wuancake/blob/master/tests/wuan_vue_beginner.md
+使用uni-app开发上述登录界面的移动网页版，接口文档见：http://xiaoyaoji.cn/project/1Xf3PiYFVNB/1Xlt39Wu0yO
 
 完成该阶段考核任务即可进入煎饼计划开发组。
 
