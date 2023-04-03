@@ -14,13 +14,19 @@ Java 初学者，如何学习 Java？：https://www.zhihu.com/question/22407671
 
 进行学习前，你需要安装一些软件。
 
-1.Java环境JDK8：https://caiyun.139.com/m/i?014MdMHbnt0N0 提取码:VVfX
+1.Java环境JDK8：https://caiyun.139.com/w/i/1F5C3NM6213cc 提取码:JfZb
 
-2.开发工具IntelliJ IDEA：https://www.jetbrains.com/zh-cn/idea/download/
+2.开发工具IntelliJ IDEA（社区版即可）：https://www.jetbrains.com/zh-cn/idea/download/
 
-3.数据库MySQL（目前此见相关项目使用5.7）：https://downloads.mysql.com/archives/community/
+3.数据库MySQL（目前此见相关项目使用5.7）：https://downloads.mysql.com/archives/installer/
 
-4.数据库管理工具Navicat for MySQL：https://www.navicat.com.cn/download/navicat-for-mysql
+4.数据库管理工具（任选其一）
+
+Navicat for MySQL：https://www.navicat.com.cn/download/navicat-for-mysql
+
+HeidiSQL：https://www.heidisql.com/download.php
+
+DBeaver：https://dbeaver.io/download/
 
 ## 三、基础阶段
 
