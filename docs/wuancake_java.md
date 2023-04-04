@@ -34,11 +34,13 @@ DBeaver：https://dbeaver.io/download/
 
 ### 1.考核任务
 
-使用Java+SAX/Dom4j(XML)实现一个简易的登录与注册功能。
+使用 Java+SAX/Dom4j(XML)实现一个简易的登录与注册功能。
 
-需要编写设计文档与思路并提交至git。编码实现，编码规范参考Java官方推荐的。测试使用Junit进行单元测试。使用findbugs插件检查简单的bug。
+需要编写设计文档与思路并提交至 git。编码实现，编码规范参考 Java 官方推荐的。测试使用 Junit 进行单元测试。使用 findbugs 插件检查简单的 bug。
 
 功能要求：能够命令行运行，实现注册、登录、查询用户数量与信息、退出等功能。
+
+进阶要求：本次开发的程序所有数据在内存中，当项目重启时数据无法继承，请结合`XML（或JSON）` + `序列化/反序列化` + `文件IO`将本次运行时的用户数据落盘，项目重启时继承上次运行的数据。 
 
 ### 2.学习内容
 
@@ -50,9 +52,9 @@ DBeaver：https://dbeaver.io/download/
 
 菜鸟Java文字教程：http://www.runoob.com/java/java-tutorial.html
 
-Java 1.6 API 文档官方中文版：http://download.oracle.com/technetwork/java/javase/6/docs/zh/api.zip
+廖雪峰Java教程：https://www.liaoxuefeng.com/wiki/1252599548343744
 
-Java 1.8 API 文档翻译版：https://blog.csdn.net/xcy1193068639/article/details/80933280
+在线Java 8 中文版API手册：https://www.matools.com/api/java8
 
 Java核心技术·卷 I：https://book.douban.com/subject/26880667/
 
@@ -66,9 +68,28 @@ Java核心技术·卷 II：https://book.douban.com/subject/27165931/
 
 ### 1.考核任务
 
-使用JSP+Servlet+MySQL(Tomcat)技术实现一个简易的能实现录与注册功能的网页，包含注册、登录、修改用户信息、查询用户数量与信息、登出等功能。
+#### 进阶任务1：
 
-信息需存储于MySQL数据库中，并使用JDBC与c3p0连接池维护数据库连接。
+使用 JSP+Servlet+MySQL(Tomcat)技术实现一个简易的能实现录与注册功能的网页，包含注册、登录、修改用户信息、查询用户数量与信息、登出等功能。
+信息需存储于 MySQL 数据库中，并使用 JDBC 与 c3p0 连接池维护数据库连接。
+
+未登录时禁止查询与修改用户信息
+
+学习这部分时请着重`response` `request` 这两个servlet的内置对象，在后面的开发中用到频率高。
+
+#### 进阶任务2：
+
+仿照`午安计划周报项目`进行开发API接口，功能包括：注册、登录、修改用户信息、查询用户数量与信息等功能，无需开发界面，数据库表请自行设计。
+
+纯接口项目每一次请求都是全新的会话，session将不再适用，请通过token来作为用户身份验证的载体。
+
+技术要求： 
+- Spring Boot 或 Spring + spring MVC
+- MyBatis
+- MySQL
+- 允许使用其他的第三方类库或中间件
+
+本任务通过后可进入开发组
 
 ### 2.学习内容
 
