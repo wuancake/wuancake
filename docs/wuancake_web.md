@@ -24,6 +24,8 @@ Visual Studio Code：https://code.visualstudio.com/ ，汉化方法：https://bl
 
 HBuilderX：https://www.dcloud.io/hbuilderx.html
 
+3.Node.js环境（目前生产环境用的是16）：https://nodejs.org/zh-cn/download/releases
+
 ## 三、基础阶段
 
 基础阶段，主要学习HTML和CSS语言，以及JavaScript基础知识，以达到能根据设计图制作网页的程度。
