@@ -60,6 +60,10 @@ Java核心技术·卷 I：https://book.douban.com/subject/26880667/
 
 Java核心技术·卷 II：https://book.douban.com/subject/27165931/
 
+JSON 教程：http://www.runoob.com/json/json-tutorial.html
+
+猴子都能懂的Git入门：https://backlog.com/git-tutorial/cn/intro/intro1_1.html
+
 ## 四、进阶阶段
 
 进阶阶段主要学习Java EE相关内容，并学习HTML基础、CSS、JS基础、HTTP协议、Tomcat使用、数据库增删改查、JDBC（MySQL）、JSP（EL/JSTL表达式）、Servlet、会话管理（Cookie/Session）等知识。
@@ -152,10 +156,6 @@ SpringMVC：在MVC中指的就是C，控制。主要是控制页面间的跳转�
 7）项目构建工具Maven：https://maven.apache.org/
 
 8）正则表达式30分钟入门教程：http://deerchao.net/tutorials/regex/regex.htm
-
-9）JSON 教程：http://www.runoob.com/json/json-tutorial.html
-
-10）猴子都能懂的Git入门：https://backlog.com/git-tutorial/cn/intro/intro1_1.html
 
 ## 五、持续学习
 
