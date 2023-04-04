@@ -6,7 +6,7 @@
 
 在设计师领域，在PC端从事网页设计的人我们称为WUI (Web User Interface)设计师或网页设计师。在移动端从事移动设计的人，我们称为GUI (Graphics User Interface)设计师，因为移动端会有大量图形用户界面设计。在公司中，人们并不会很清楚地区分两种职能，都统称为UI设计师，如下图所示。
 
-![](https://wx1.sinaimg.cn/large/4079825aly1freol0ore7j206905wmyd.jpg)
+![](https://gitee.com/wuancake/wuancake/raw/master/others/ui.jpg)
 
 因为他们产出的都是用户界面，都需要对产品的界面视觉负责。——摘自《术与道—移动应用UI设计必修课》——余振华。
 
