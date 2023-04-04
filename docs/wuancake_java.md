@@ -36,7 +36,7 @@ DBeaver：https://dbeaver.io/download/
 
 使用 Java+SAX/Dom4j(XML)实现一个简易的登录与注册功能。
 
-需要编写设计文档与思路并提交至GitHub或Gitee。编码实现参考Java官方推荐编码规范。使用Junit等框架进行单元测试。使用FindBugs、SpotBugs等插件检查简单的bug。
+需要编写设计文档与思路并提交至GitHub或Gitee，编码实现参考Java官方推荐编码规范，使用Junit等框架进行单元测试，使用FindBugs或SpotBugs等插件检查简单的bug。
 
 功能要求：能够命令行运行，实现注册、登录、查询用户数量与信息、退出等功能。
 
