@@ -16,6 +16,8 @@
 
 1）产品经理必备工具 AxureRP 9：https://www.axure.com/release-history/rp9
 
+汉化补丁：https://caiyun.139.com/m/i?014McbgnkddNT 提取码:waTk
+
 2）敏捷的在线原型工具 墨刀：https://modao.cc/
 
 2.思维导图工具（任选其一即可）
