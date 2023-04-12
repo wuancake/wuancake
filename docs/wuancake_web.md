@@ -62,13 +62,13 @@ JavaScript进阶篇：http://www.imooc.com/learn/10
 
 JavaScript教程：http://www.runoob.com/js/js-tutorial.html
 
-vue2.5入门：https://www.imooc.com/learn/980
+Vue3入门指南与实战案例：https://vue3.chengpeiquan.com/
 
-Vue.js中文文档：https://cn.vuejs.org/v2/guide/
+Vue3官方文档：https://cn.vuejs.org/guide/introduction.html
 
 uni-app跨平台框架官方教程：https://ke.qq.com/course/343370
 
-uni-app官方文档：https://uniapp.dcloud.io/resource
+uni-app官方文档：https://uniapp.dcloud.net.cn/resource.html
 
 微信小程序开发文档：https://developers.weixin.qq.com/miniprogram/dev/index.html
 
