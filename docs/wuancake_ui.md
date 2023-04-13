@@ -20,29 +20,21 @@ UI一直做下去 比较理想的结果是什么？：https://www.zhihu.com/ques
 
 ## 二、准备工作
 
-进行学习前，你需要安装一些软件。
-
-1.设计类工具，任选其一即可
+进行学习前，你需要选择一个设计工具，任选其一即可：
 
 Figma：https://www.figma.com/
 
+即时设计：https://js.design/
+
 MasterGo：https://mastergo.com/
 
-即时设计：https://js.design/
+Pixso：https://pixso.cn/
+
+Sketch：自行下载（macOS）
 
 Adobe Photoshop：自行下载
 
-Adobe Illustrator：自行下载
-
 Adobe XD：自行下载
-
-Sketch：自行下载
-
-2.切图标注类工具
-
-PxCook（适用于PS/Sketch/XD）适用于PS/Sketch/XD：http://www.fancynode.com.cn/pxcook
-
-Cutterman（适用于PS）：https://www.cutterman.cn/ps/cutterman
 
 ## 三、基础阶段
 
@@ -54,7 +46,7 @@ Cutterman（适用于PS）：https://www.cutterman.cn/ps/cutterman
 
 ### 2.学习内容
 
-PS/AI等教程网上很多，可以任意选择一个学习，只要能做到临摹App界面即可。这里提供下Figma的教程：
+每个工具的教程网上都有很多，可以任意选择一个学习，只要能完成考核任务即可。这里提供下Figma的教程：
 
 Figma学习路径：https://www.figma.cool/learning-paths
 
@@ -68,7 +60,7 @@ Figma官方文档中文版：https://www.figma.cool/official-docs
 
 ### 1.考核任务
 
-使用PS或AI为考勤系统手机版v2.0设计界面，以该原型图为准：https://lanhuapp.com/link/#/invite?sid=lX01uzhI ，要求在保证产品功能的前提下尽可能的美观，字号、配色、间距等细节良好，不得修改产品需求。
+为考勤系统手机版v2.0设计界面，以该原型图为准：https://lanhuapp.com/link/#/invite?sid=lX01uzhI ，要求在保证产品功能的前提下尽可能的美观，字号、配色、间距等细节良好，不得修改产品需求。
 
 完成该阶段考核任务即可进入煎饼计划开发组。
 
