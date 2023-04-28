@@ -24,7 +24,9 @@ Visual Studio Code：https://code.visualstudio.com/ ，汉化方法：https://bl
 
 HBuilderX：https://www.dcloud.io/hbuilderx.html
 
-3.Node.js环境（目前生产环境用的是16）：https://nodejs.org/zh-cn/download/releases
+Node.js环境（目前生产环境用的是16）：https://nodejs.org/zh-cn/download/releases
+
+微信开发者工具：https://developers.weixin.qq.com/miniprogram/dev/devtools/download.html
 
 ## 三、基础阶段
 
