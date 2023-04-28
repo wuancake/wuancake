@@ -22,7 +22,7 @@ Java 初学者，如何学习 Java？：https://www.zhihu.com/question/22407671
 
 4.数据库管理工具（任选其一）
 
-Navicat for MySQL：https://www.navicat.com.cn/download/navicat-for-mysql
+Navicat：https://www.navicat.com.cn/download/navicat-premium
 
 HeidiSQL：https://www.heidisql.com/download.php
 
