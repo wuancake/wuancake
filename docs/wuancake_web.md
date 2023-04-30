@@ -34,7 +34,7 @@ Node.js环境（目前生产环境用的是16）：https://nodejs.org/zh-cn/down
 
 ### 1.考核任务
 
-用所学知识依照这个设计图编写考勤系统登录界面的移动版，要具有较高的还原度：https://lanhuapp.com/link/#/invite?sid=lX0Jafdi
+用所学知识依照这个设计图编写考勤系统登录界面的移动版，要具有较高的还原度：https://lanhuapp.com/link/#/invite?sid=lxPuTVaa
 
 ### 2.学习内容
 
