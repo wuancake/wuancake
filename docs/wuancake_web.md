@@ -56,9 +56,13 @@ JavaScript进阶篇：http://www.imooc.com/learn/10
 
 ### 1.考核任务
 
-使用uni-app开发上述登录界面的移动网页版，接口文档见：http://xiaoyaoji.cn/project/1Xf3PiYFVNB/1Xlt39Wu0yO
+#### 进阶任务1
 
-完成该阶段考核任务即可进入煎饼计划开发组。
+使用Vue3开发上述登录界面的移动网页版，接口文档见：http://xiaoyaoji.cn/project/1Xf3PiYFVNB/1Xlt39Wu0yO ，能够调用接口进行用户登录。
+
+#### 进阶任务2
+
+使用uniapp开发上述登录界面的小程序版，完成该阶段考核任务即可进入煎饼计划开发组。
 
 ### 2.学习内容
 
@@ -99,5 +103,7 @@ TypeScript 中文手册：https://typescript.bootcss.com/
 JavaScript高级程序设计（第3版）：https://book.douban.com/subject/10546125/
 
 Flutter中文开发文档：https://flutter.cn/docs
+
+Electron官方文档：https://www.electronjs.org/zh/docs/latest
 
 Front-End Developer Handbook 2018：https://frontendmasters.gitbooks.io/front-end-developer-handbook-2018/
