@@ -94,9 +94,7 @@ jQuery 教程：http://www.runoob.com/jquery/jquery-tutorial.html
 
 ECMAScript 6 入门：http://es6.ruanyifeng.com/
 
-PWA简介：https://lavas.baidu.com/pwa
-
-React 中文文档：https://doc.react-china.org/
+React 中文文档：https://zh-hans.react.dev/learn
 
 TypeScript 中文手册：https://typescript.bootcss.com/
 
